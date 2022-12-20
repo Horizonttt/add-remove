@@ -1,0 +1,20 @@
+.parent{
+    overflow: hidden;
+    margin-top: 50px;
+}
+.child{
+    width: 200px;
+    height: 150px;
+    cursor: pointer;
+    background-color: blueviolet;
+    float: left;
+    border: 1px solid red;
+    text-align: center;
+    line-height: 100px;
+    margin-left: 20px;
+    color: white;
+}
+.back{
+    background-color: green;
+    color: white;
+}
